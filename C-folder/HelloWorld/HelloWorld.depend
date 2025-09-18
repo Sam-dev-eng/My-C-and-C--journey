@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1757784130 source:c:\users\dell\onedrive\documents\java folder\c-folder\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1757785383 source:c:\users\dell\onedrive\documents\java folder\c-folder\helloworld\aboutme.c
+	<stdio.h>
+
+1757785240 source:c:\users\dell\onedrive\documents\java folder\c-folder\helloworld\learningc.c
+	<stdio.h>
+	<stdlib.h>
+
