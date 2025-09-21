@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758480408 source:/home/samuel-chukwunonso/Documents/my-C-and-C++-folder/My-C-and-C--journey/C-folder/printInput/main.c
+	<stdio.h>
+	<stdlib.h>
+
